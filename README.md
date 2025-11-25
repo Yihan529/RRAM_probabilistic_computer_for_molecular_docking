@@ -65,4 +65,4 @@ If you use this code in your research, please cite:
 Code repository:
 RRAM_probabilistic_computer_for_molecular_docking, GitHub, 2025.
 
-DOI: (to be added after Zenodo release)
+This code release is archived on Zenodo at: https://doi.org/10.5281/zenodo.17713901
